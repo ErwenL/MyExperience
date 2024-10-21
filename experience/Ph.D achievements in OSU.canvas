@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"ab767e0e40c354b3","type":"text","text":"### 1D photonic crystal cavity modulator","x":-760,"y":-540,"width":540,"height":848},
+		{"id":"a1f3369737155795","type":"file","file":"attachments/Pasted image 20241022002151.png","x":-697,"y":-437,"width":414,"height":371},
+		{"id":"48094a94a52d0281","type":"file","file":"attachments/Pasted image 20241022001715.png","x":-697,"y":-65,"width":413,"height":302},
+		{"id":"568e009019992d44","type":"text","text":"### Microring modulator","x":-180,"y":-540,"width":520,"height":848},
+		{"id":"7050805b3cc0bda6","type":"file","file":"attachments/Pasted image 20241022004341.png","x":-110,"y":-437,"width":400,"height":332},
+		{"id":"ba1e5e19aed5e30f","type":"file","file":"attachments/Pasted image 20241022004403.png","x":-110,"y":-47,"width":400,"height":266},
+		{"id":"dc5d939e9fac8415","type":"text","text":"### ENZ based plasmonic EA modulator","x":-760,"y":384,"width":1100,"height":356},
+		{"id":"515b4e42853ea4e1","type":"file","file":"attachments/Pasted image 20241022004540.png","x":-490,"y":460,"width":241,"height":240},
+		{"id":"fd3e6d9aab83bbd7","type":"file","file":"attachments/Pasted image 20241022004600.png","x":-140,"y":460,"width":260,"height":240}
+	],
+	"edges":[]
+}
