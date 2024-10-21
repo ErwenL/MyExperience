@@ -109,5 +109,8 @@ Calculate device shap
 
 **python based photonic network solver**
 
+![[Pasted image 20241022032752.png]]
+
 **python based RF circuits solver**
 
+![[Pasted image 20241022033322.png]]
